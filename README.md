@@ -26,3 +26,12 @@ Day 4-
 Task 2
   1. While and for loop
 
+Day 5-
+
+Task 3
+  1. Using Def Function : Find maximum from given list
+  2. Sum all number, distinct element
+  3. Total number of combination, total number of permutation
+  4. count vowels, consonant. lowercase, upercase
+  5. accepts lowercase word and return uppercsse word.
+
